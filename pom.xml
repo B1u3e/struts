@@ -116,7 +116,7 @@
         <log4j2.version>2.19.0</log4j2.version>
         <ognl.version>3.3.4</ognl.version>
         <slf4j.version>1.7.32</slf4j.version>
-        <spring.platformVersion>5.3.26</spring.platformVersion>
+        <spring.platformVersion>5.3.39</spring.platformVersion>
         <tiles.version>3.0.8</tiles.version>
         <tiles-request.version>1.0.7</tiles-request.version>
         <maven-surefire-plugin.version>3.0.0-M7</maven-surefire-plugin.version>
@@ -886,7 +886,7 @@
             <dependency>
                 <groupId>javax.servlet.jsp</groupId>
                 <artifactId>jsp-api</artifactId>
-                <version>2.1</version>
+                <version>2.2</version>
                 <scope>provided</scope>
             </dependency>
 
@@ -1091,7 +1091,7 @@
             <dependency>
                 <groupId>org.testng</groupId>
                 <artifactId>testng</artifactId>
-                <version>7.5</version><!-- the latest version supporting Java 1.8 -->
+                <version>7.10.2</version><!-- the latest version supporting Java 1.8 -->
             </dependency>
 
             <dependency>
